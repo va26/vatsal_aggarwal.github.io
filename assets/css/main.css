@@ -2144,7 +2144,7 @@ input, select, textarea {
 
 			.image.avatar img {
 				border-radius: 100%;
-				width: 100%;
+				width: 120%;
 			}
 
 /* List */
@@ -2446,7 +2446,7 @@ input, select, textarea {
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		background-color: transparent;
 		border-radius: 0.35em;
-		border: solid 3px #efefef;
+		border: solid 3px #cbcbcb;
 		color: #787878 !important;
 		cursor: pointer;
 		display: inline-block;
@@ -2547,7 +2547,7 @@ input, select, textarea {
 		.button.disabled,
 		.button:disabled {
 			background-color: #e7e7e7 !important;
-			border-color: #e7e7e7 !important;
+			border-color: #b2b2b2 !important;
 			color: #b2b2b2 !important;
 			cursor: default;
 		}
